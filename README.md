@@ -1,4 +1,4 @@
-# Support Dashboard - PY1010 Prosjekt
+# Support Dashboard - Prosjektoppgave i PY1010-1-24H-Grunnlegende Progammering med Python
 
 ## Beskrivelse
 Dette prosjektet analyserer data fra supportavdelingen ved telefonselskapet MORSE. Dataene er loggført i en **xlsx-fil** og inneholder informasjon om kundehenvendelser, samtaletid, kundetilfredshet og tidspunkt for henvendelsen. Programmet utfører flere analyser basert på disse dataene og visualiserer resultatene ved hjelp av grafer.
