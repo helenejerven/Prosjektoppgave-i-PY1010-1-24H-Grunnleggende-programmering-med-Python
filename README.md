@@ -12,6 +12,6 @@ Prosjektet består av følgende filer:
 
 ## Hvordan kjøre programmet
 1. Last ned `support_uke_24.xlsx` og sørg for at den ligger i samme mappe som Python-programmet.
-2. Kjør `support_dashboard.py` ved å bruke Python 3.x:
+2. Kjør `Prosjektoppgave.py` ved å bruke Python 3.x:
    ```bash
-   python support_dashboard.py
+   python support_Prosjektoppgave.py
